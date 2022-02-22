@@ -1,3 +1,6 @@
+Important note: Some of these are crackable via dictionary attacks! 
+It will be much faster for some
+
 - 👋 Hi, I’m @JustAHubber, I'm a 16 year old student as of 02/22 and I enjoy computers and have done for just over a decade (before I could wipe my ass)
 - 👀 I’m interested in Cyber Security and Programming
 - 🌱 I’m currently in High school

@@ -3,6 +3,7 @@
 - 🌱 I’m currently in High school
 - 💞️ I’m looking to collaborate on Cyber Security
 - 📫 How to reach me: instagram: l.t.h_monke
+- 🏠 I live in England, United Kingdom
 
 <!---
 JustAHubber/JustAHubber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

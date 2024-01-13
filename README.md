@@ -1,6 +1,5 @@
-This is my goofy little profile.
 
-I post pretty much everything on here.
+I post pretty much everything I create in my spare time on here.
 
 Please go ahead and check out my <a href="https://github.com/JustAHubber/Scripts">Scripts</a>
 <!---
